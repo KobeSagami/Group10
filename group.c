@@ -40,7 +40,7 @@ printf("I was born in Tulsa, OK and grew  up in Helena, MT\n");
 void member3(void){
 printf("Name: Wit Sampson\n");
 printf("Year in School: Junior\n");
-
+printf("Major: Math/Computer Science\n");
 int main(void)
 {
     member1();

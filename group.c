@@ -41,6 +41,7 @@ void member3(void){
 printf("Name: Wit Sampson\n");
 printf("Year in School: Junior\n");
 printf("Major: Math/Computer Science\n");
+printf("Hobbies:Working out, Reading, Going to the Movies\n");
 int main(void)
 {
     member1();

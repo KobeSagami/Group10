@@ -7,6 +7,11 @@
 
 #include <stdio.h>
 
+void member1(void)
+{
+    printf("Name: Kobe Sagami\n");
+}
+
 void member4(void) {
 printf("Name: Kenndle Sierer\n");
 printf("Year in School: Sophmore\n");

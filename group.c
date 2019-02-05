@@ -13,7 +13,8 @@ void member3() {
 	printf("Freshman\n");
 	printf("Computer Science + Political Science\n");
 	printf("I like to run and hike\n");
-
+	printf("I grew up near Seattle\n");
+	printf("I am in the UM Jazz Band\n");
 
 
 	return;

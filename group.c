@@ -7,6 +7,19 @@
 
 #include <stdio.h>
 
+void member3(void) {
+
+	printf("Nicholas Shepard\n");
+	printf("Freshman\n");
+	printf("Computer Science + Political Science\n");
+	printf("I like to run and hike\n");
+	printf("I grew up near Seattle\n");
+	printf("I am in the UM Jazz Band\n");
+
+
+	return;
+}
+
 void member1(void)
 {
     printf("Name: Kobe Sagami\n");

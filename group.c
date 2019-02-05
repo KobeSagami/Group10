@@ -12,6 +12,9 @@ void member1(void)
     printf("Name: Kobe Sagami\n");
     printf("Year in School: Junior\n");
     printf("Major: Computer Science\n");
+    printf("Hobby: WoW Private Server Development\n");
+    printf("Where you grew up: Kalispell, Montana\n");
+    printf("Costco is my favorite store\n");
 }
 
 void member4(void) {

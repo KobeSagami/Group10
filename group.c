@@ -42,6 +42,9 @@ printf("Name: Wit Sampson\n");
 printf("Year in School: Junior\n");
 printf("Major: Math/Computer Science\n");
 printf("Hobbies:Working out, Reading, Going to the Movies\n");
+printf("I was born in Great Falls, MT and grew up in Polson,MT\n");
+printf("There is nothing else interesting\n");
+}
 int main(void)
 {
     member1();

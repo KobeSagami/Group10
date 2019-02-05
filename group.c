@@ -7,7 +7,7 @@
 
 #include <stdio.h>
 
-void member3() {
+void member3(void) {
 
 	printf("Nicholas Shepard\n");
 	printf("Freshman\n");

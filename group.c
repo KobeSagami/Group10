@@ -10,6 +10,8 @@
 void member3() {
 
 	printf("Nicholas Shepard\n");
+	printf("Freshman\n");
+
 
 
 	return;

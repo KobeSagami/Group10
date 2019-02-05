@@ -7,6 +7,17 @@
 
 #include <stdio.h>
 
+void member3() {
+
+	printf("Nicholas Shepard\n");
+
+
+	return;
+}
+
+
+
+
 int main(void)
 {
     member1();

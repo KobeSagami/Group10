@@ -12,7 +12,8 @@ void member3() {
 	printf("Nicholas Shepard\n");
 	printf("Freshman\n");
 	printf("Computer Science + Political Science\n");
-	
+	printf("I like to run and hike\n");
+
 
 
 	return;
